@@ -1,0 +1,4 @@
+name: Pollinations AI Plugin
+repo: https://github.com/fkom13/opencode-pollinations-plugin
+tagline: Free AI tools + premium models via Pollinations
+description: Complete Pollinations.ai integration for OpenCode. Free tools usable without API key (image gen/edit, text-to-video, object remover, upscaler, enhancer, background removal, QR, diagrams) plus premium models (Flux, Wan, ElevenLabs TTS, Whisper STT, web search) with hourly free tiers. Features 1-click login, Cost Guard protection, Safety Net auto-fallback, 6 languages, quest/gamification system, and unified Pollen currency.
